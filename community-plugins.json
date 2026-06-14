@@ -33248,5 +33248,12 @@
     "author": "Aiday Marlen Kyzy",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Adds backtick shortcut for code blocks.",
     "repo": "aiday-mar/code-style-keys"
-  }
+  },
+  {
+  "id": "obsidian-engram",
+  "name": "Engram",
+  "author": "PixelAnay",
+  "description": "A personal intelligence with persistent memory, multi-provider AI, and safe vault access.",
+  "repo": "PixelAnay/Engram"
+}
 ]
